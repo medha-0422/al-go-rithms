@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int arr[10][10],row,col,i,j;
-    cout<<"Enter size of row and column: ";
+    cout<<"Enter the size of row and column: ";
     cin>>row>>col;
     cout<<"Enter elements of matrices(row wise)"<<endl;
     for(i=0;i<row;i++)
